@@ -31,7 +31,7 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       ![alt text](<Screenshot 2025-04-11 160946.png>)
+![alt text](<Screenshot 2025-04-11 160946.png>)
        ![alt text](<Screenshot 2025-04-11 160957.png>)
        ![alt text](<Screenshot 2025-04-11 161004.png>)
        ![alt text](<Screenshot 2025-04-11 161011.png>)
